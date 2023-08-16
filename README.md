@@ -2,6 +2,8 @@ Creating a Natural language toolkit chatbot using python.
 
 This is a Retrival learning chatbot.
 
+this chat bot matches the most suitable sentence to questions asked and its knowlendge is limited to the data.txt file.
+
 import libraries Numpy, nltk, string, sklearn and random.
 
 this chat gives information about universe present in wekipedia that is stored in .
